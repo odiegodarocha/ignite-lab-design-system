@@ -429,14 +429,14 @@ module.exports = {
 
 ### Veja aqui a publicação do StoryBook no GitHub Pages
 
-- [https://diegodrcha.github.io/ignite-lab-design-system](https://diegodrcha.github.io/ignite-lab-design-system)
+- [https://odiegodarocha.github.io/ignite-lab-design-system](https://odiegodarocha.github.io/ignite-lab-design-system)
   
 ## Instalação e uso
 
 ### Clone o projeto e acesse a pasta
 
 ```bash
-git clone https://github.com/diegodrcha/ignite-lab-design-system.git
+git clone https://github.com/odiegodarocha/ignite-lab-design-system.git
 ```
 
 ### Siga os passos abaixo
@@ -633,4 +633,4 @@ export const decorators = [mswDecorator];
 
 ## Github
 
-- [https://github.com/diegodrcha](https://github.com/diegodrcha)
+- [https://github.com/odiegodarocha](https://github.com/odiegodarocha)
